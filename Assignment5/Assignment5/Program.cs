@@ -6,7 +6,7 @@
 //- Display this string in reverse, without using any C# language feature. (Create your own algorith)
 //- In the given string, replace all occurances of "object-oriented programming" with "OOP" and display the new string
 
-Console.WriteLine($"Word count: {text.Split(" ").Length - 1}");
+Console.WriteLine($"Word count: {text.Split(" ").Length}");
 Console.WriteLine($"Sentence count: {text.Replace("?", ".").Replace("!", ".").Split(".").Length - 1}");
 Console.WriteLine($"\"encapsulation\" count: {text.Split("encapsulation").Length - 1}");
 

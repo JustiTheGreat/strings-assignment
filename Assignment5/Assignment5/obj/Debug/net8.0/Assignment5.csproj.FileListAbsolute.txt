@@ -12,3 +12,4 @@ C:\Users\justinian.zaharia\Desktop\strings-assignment\Assignment5\Assignment5\ob
 C:\Users\justinian.zaharia\Desktop\strings-assignment\Assignment5\Assignment5\obj\Debug\net8.0\Assignment5.pdb
 C:\Users\justinian.zaharia\Desktop\strings-assignment\Assignment5\Assignment5\obj\Debug\net8.0\Assignment5.genruntimeconfig.cache
 C:\Users\justinian.zaharia\Desktop\strings-assignment\Assignment5\Assignment5\obj\Debug\net8.0\ref\Assignment5.dll
+C:\Users\justinian.zaharia\Desktop\strings-assignment\Assignment5\Assignment5\obj\Debug\net8.0\Assignment5.sourcelink.json
